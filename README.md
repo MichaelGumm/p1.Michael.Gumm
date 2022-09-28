@@ -1,5 +1,5 @@
 
-![alt_text](images/image1.gif "image_tooltip")
+![alt_text](image1.gif "image_tooltip")
 
 
 **<span style="text-decoration:underline;">Problems</span>**
