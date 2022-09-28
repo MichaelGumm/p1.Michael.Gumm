@@ -22,6 +22,9 @@ The buttons are clearly labeled, so there should be no user confusion when selec
 
 While most operations are easy to perform and receive feedback from, mistakes could be made. Firstly, users could spend a long time looking for the button to close the doors, as most people expect that button to appear somewhere on the panel. Secondly, there are three white “buttons” on the elevator that do not actually correlate to an operation. Obviously they are there to plug unused holes in the panel, but people may accidentally attempt to push one of these. Granted, there are no consequences for doing so.
 
+![alt_text](p1_Michael_Gumm_UI.gif "image_tooltip")
+
 **<span style="text-decoration:underline;">Improvements</span>**
 
-While the current design is acceptable, improvements can always be made. Firstly, the inclusion of a button to close the elevator doors. While not always needed, it would be nice to have the extra functionality, should some users require it. Secondly, I will make the design more compact, as the current design takes up a sizable amount of space. Removing the three false buttons will help achieve this, as this space can be used for functioning buttons. Finally, I will color code the different buttons to make them more distinguishable for user convenience. Call buttons will all share a color, but the remaining functionalities will all have unique coloring.
+While the current design is acceptable, improvements can always be made. Firstly, the inclusion of a button to close the elevator doors. While not always needed, it would be nice to have the extra functionality, should some users require it. Secondly, I will make the design more compact, as the current design takes up a sizable amount of space. Removing the three false buttons will help achieve this, as this space can be used for functioning buttons. Finally, I will give the alarm a noticeable red color to distinguish it from the other buttons.
+
