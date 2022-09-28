@@ -5,7 +5,6 @@
 [Presentation Page](https://michaelgumm.github.io/p1.Michael.Gumm/)
 
 
-
 ![alt_text](image1.gif "image_tooltip")
 
 
